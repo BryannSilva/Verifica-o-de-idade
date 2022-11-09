@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verificação de idade", "Verificação de idade\Verificação de idade.csproj", "{067663D7-7534-423C-9A0E-3557B8217A14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{067663D7-7534-423C-9A0E-3557B8217A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067663D7-7534-423C-9A0E-3557B8217A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067663D7-7534-423C-9A0E-3557B8217A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067663D7-7534-423C-9A0E-3557B8217A14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C60B95E4-2463-4929-AB13-32FCD171997E}
+	EndGlobalSection
+EndGlobal

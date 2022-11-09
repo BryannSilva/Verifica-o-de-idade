@@ -1,0 +1,12 @@
+C:\Users\marcello.basilva\source\repos\Verificação de idade\Verificação de idade\bin\Debug\Verificação de idade.exe.config
+C:\Users\marcello.basilva\source\repos\Verificação de idade\Verificação de idade\bin\Debug\Verificação de idade.exe
+C:\Users\marcello.basilva\source\repos\Verificação de idade\Verificação de idade\bin\Debug\Verificação de idade.pdb
+C:\Users\marcello.basilva\source\repos\Verificação de idade\Verificação de idade\obj\Debug\Verificação de idade.csproj.AssemblyReference.cache
+C:\Users\marcello.basilva\source\repos\Verificação de idade\Verificação de idade\obj\Debug\Verificação de idade.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcello.basilva\source\repos\Verificação de idade\Verificação de idade\obj\Debug\Verificação_de_idade.Properties.Resources.resources
+C:\Users\marcello.basilva\source\repos\Verificação de idade\Verificação de idade\obj\Debug\Verificação de idade.csproj.GenerateResource.cache
+C:\Users\marcello.basilva\source\repos\Verificação de idade\Verificação de idade\obj\Debug\Verificação de idade.csproj.CoreCompileInputs.cache
+C:\Users\marcello.basilva\source\repos\Verificação de idade\Verificação de idade\obj\Debug\Verificação de idade.exe
+C:\Users\marcello.basilva\source\repos\Verificação de idade\Verificação de idade\obj\Debug\Verificação de idade.pdb
+C:\Users\marcello.basilva\source\repos\Verificação de idade\Verificação de idade\obj\Debug\Verificação_de_idade.Form1.resources
+C:\Users\marcello.basilva\source\repos\Verificação de idade\Verificação de idade\obj\Debug\Verificação_de_idade.Principal.resources
