@@ -73,6 +73,8 @@ namespace Verificação_de_idade
             txbSobrenome.Clear();
 
             txbIdade.Clear();
+
+            pibTrancado.Image = Properties.Resources.trancar;
             
         }
 
